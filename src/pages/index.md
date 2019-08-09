@@ -7,12 +7,9 @@ sections:
         label: Get Started
         url: /generic
     component: Intro
-    content: |-
-      Lorem ipsum dolor sit magna consectetur  
-      adipiscing elit. Duis dapibus rutrum facilisis.  
-      Class aptent taciti sociosqu torquent.
+    content: Alles über AT.
     img_path: /images/iteration-t-shirt-design-original.png
-    title: Alexandertechnik
+    title: Alexandertechnik - Zeit zum Loslassen
     type: intro
   - actions:
       - is_primary: false
