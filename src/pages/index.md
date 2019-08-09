@@ -13,7 +13,7 @@ sections:
       Loslassen 
       Verändern
     img_path: /images/iteration-t-shirt-design-original.png
-    title: Alexandertechnik - Zeit zum Loslassen
+    title: Alexandertechnik<br/>Zeit zum Loslassen
     type: intro
   - actions:
       - is_primary: false
