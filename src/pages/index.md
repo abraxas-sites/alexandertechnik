@@ -8,10 +8,10 @@ sections:
         url: /generic
     component: Intro
     content: |-
-      Berührt werden
-      Sich ausdehnen
-      Loslassen 
-      Verändern
+      Berührt werden<br/>
+      Sich ausdehnen<br/>
+      Loslassen<br/>
+      Verändern<br/>
     img_path: /images/iteration-t-shirt-design-original.png
     title: Alexandertechnik<br/>Zeit zum Loslassen
     type: intro
