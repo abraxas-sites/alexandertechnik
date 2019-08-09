@@ -7,7 +7,11 @@ sections:
         label: Get Started
         url: /generic
     component: Intro
-    content: Alles über AT.
+    content: |-
+      Berührt werden
+      Sich ausdehnen
+      Loslassen 
+      Verändern
     img_path: /images/iteration-t-shirt-design-original.png
     title: Alexandertechnik - Zeit zum Loslassen
     type: intro
